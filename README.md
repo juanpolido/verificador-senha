@@ -14,7 +14,7 @@ O script verifica se a senha atende aos seguintes critérios:
 ✔️ Pelo menos **um caractere especial (!@#$%^&* etc.)**  
 ✔️ **Não pode conter padrões comuns ou sequências previsíveis** (exemplo: `"12345"`, `"senha123"`, `"qwerty"`, etc.)  
 
-
+---
 
 ## 🚀 Como Usar  
 ### 📥 Clonar o repositório  
@@ -22,21 +22,21 @@ O script verifica se a senha atende aos seguintes critérios:
 git clone https://github.com/juanpolido/verificador-senha
 cd verificador-senha
 
-
+---
 
 2️⃣ Executar o script
 Certifique-se de ter o Python instalado e execute o arquivo:
 
 python verificador_senha.py
 
-
+---
 
 🛠 Estrutura do Projeto
 verificador-senha/
 │── verificador_senha.py  # Código principal do verificador
 │── README.md             # Documentação do projeto
 
-
+---
 
 🔥 Exemplo de Uso
 
@@ -50,7 +50,7 @@ A senha deve ter pelo menos 10 caracteres.
 Digite uma senha: SenhaSuperForte@2024
 Senha forte!
 
-
+---
 
 🤝 Contribuindo
 Contribuições são bem-vindas! Se quiser sugerir melhorias:
@@ -65,7 +65,7 @@ Faça um push para a branch (git push origin minha-melhoria)
 
 Abra um Pull Request
 
-
+---
 
 📜 Licença
 Este projeto está sob a licença MIT.
